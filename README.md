@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jin Hao</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Python developer from Italy</h3>
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🌱 I’m currently learning **New skills in python**
